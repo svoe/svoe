@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 🫧
+
+I'm a ✨ _special_ ✨ repository because I'm actually a fish. 🐡
+
+- 🌱 I’m currently learning: how to use the internetz
 
 <!--
 **svoe/svoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
